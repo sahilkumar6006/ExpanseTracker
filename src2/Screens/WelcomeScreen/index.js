@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const RecentExpanses = () => {
+const Welcome = () => {
   return (
     <View>
-      <Text>RecentExpanses</Text>
+      <Text>index</Text>
     </View>
   )
 }
 
-export default RecentExpanses
+export default Welcome
